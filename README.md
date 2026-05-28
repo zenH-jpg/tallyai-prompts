@@ -88,6 +88,12 @@ Try these prompts with any AI assistant (ChatGPT, Claude, Gemini).
 
 ---
 
+## Also from TallyAI
+
+📊 **[AI Smart Bookkeeping](https://tallybot.gumroad.com/l/bganpu)** — Google Sheets template with AI-powered expense tracking, invoicing, and financial reports. Built for freelancers.
+
+---
+
 ## License
 
 MIT License. Prompts sourced from [f/prompts.chat](https://github.com/f/prompts.chat) (CC0).
